@@ -1,5 +1,16 @@
 [
   {
+    "id": 0,
+    "title": "Luxurious Fresh Table",
+    "price": 648,
+    "category": "furniture",
+    "rating": 5,
+    "description":
+      "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "imgSrc":
+      "https://cdn.lorem.space/images/furniture/.cache/640x480/jean-philippe-delberghe-feijc-nqWKM-unsplash.jpg"
+  },
+  {
     "id": 1,
     "title": "Electronic Metal Bacon",
     "price": 775,
@@ -193,17 +204,6 @@
       "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
     "imgSrc":
       "https://cdn.lorem.space/images/furniture/.cache/640x480/laura-dav'id'son-ULP07chR5EQ-unsplash.jpg"
-  },
-  {
-    "id": 0,
-    "title": "Luxurious Fresh Table",
-    "price": 648,
-    "category": "furniture",
-    "rating": 5,
-    "description":
-      "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/jean-philippe-delberghe-feijc-nqWKM-unsplash.jpg"
   },
   {
     "id": 19,
