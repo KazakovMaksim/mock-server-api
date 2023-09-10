@@ -7,8 +7,7 @@
     "rating": 5,
     "description":
       "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/jean-philippe-delberghe-feijc-nqWKM-unsplash.jpg"
+    "imgSrc": "assets/images/0.jpg"
   },
   {
     "id": 1,
@@ -16,10 +15,8 @@
     "price": 775,
     "category": "chair",
     "rating": 5,
-    "description":
-      "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/nathalie-jolie-6-xcHVkwj0c-unsplash.jpg"
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "imgSrc": "assets/images/1.jpg"
   },
   {
     "id": 2,
@@ -27,10 +24,8 @@
     "price": 134,
     "category": "chair",
     "rating": 1,
-    "description":
-      "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/lennon-cheng-3FmDZJtF4ho-unsplash.jpg"
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "imgSrc": "assets/images/2.jpg"
   },
   {
     "id": 3,
@@ -38,10 +33,8 @@
     "price": 773,
     "category": "commode",
     "rating": 2,
-    "description":
-      "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/nathan-oakley--peWKMDCyw4-unsplash.jpg"
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "imgSrc": "assets/images/3.jpg"
   },
   {
     "id": 4,
@@ -49,10 +42,8 @@
     "price": 403,
     "category": "chair",
     "rating": 4,
-    "description":
-      "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/vincent-botta-J41ffLK_OSM-unsplash.jpg"
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "imgSrc": "assets/images/4.jpg"
   },
   {
     "id": 5,
@@ -61,8 +52,7 @@
     "category": "chair",
     "rating": 5,
     "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/ruslan-bardash-4kTbAMRAHtQ-unsplash.jpg"
+    "imgSrc": "assets/images/5.jpg"
   },
   {
     "id": 6,
@@ -70,10 +60,8 @@
     "price": 850,
     "category": "couch",
     "rating": 2,
-    "description":
-      "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/minh-pham-OtXADkUh3-I-unsplash.jpg"
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "imgSrc": "assets/images/6.jpg"
   },
   {
     "id": 7,
@@ -81,10 +69,8 @@
     "price": 166,
     "category": "chair",
     "rating": 5,
-    "description":
-      "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/cesar-couto-OB2F6CsMva8-unsplash.jpg"
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "imgSrc": "assets/images/7.jpg"
   },
   {
     "id": 8,
@@ -92,10 +78,8 @@
     "price": 697,
     "category": "armchair",
     "rating": 5,
-    "description":
-      "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/paul-hanaoka-JUJ5osLgXpQ-unsplash.jpg"
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "imgSrc": "assets/images/8.jpg"
   },
   {
     "id": 9,
@@ -103,10 +87,8 @@
     "price": 546,
     "category": "couch",
     "rating": 4,
-    "description":
-      "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/phillip-goldsberry-fZuleEfeA1Q-unsplash.jpg"
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "imgSrc": "assets/images/9.jpg"
   },
   {
     "id": 10,
@@ -114,10 +96,8 @@
     "price": 263,
     "category": "couch",
     "rating": 1,
-    "description":
-      "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/martin-pechy-bpg-ngqrPc8-unsplash.jpg"
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "imgSrc": "assets/images/10.jpg"
   },
   {
     "id": 11,
@@ -126,8 +106,7 @@
     "category": "chair",
     "rating": 4,
     "description": "The Football Is Good For Training And Recreational Purposes",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/ellen-qin-bxLhqZIp2LI-unsplash.jpg"
+    "imgSrc": "assets/images/11.jpg"
   },
   {
     "id": 12,
@@ -135,10 +114,8 @@
     "price": 813,
     "category": "armchair",
     "rating": 5,
-    "description":
-      "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/daniil-silantev-wLaus9bLmGQ-unsplash.jpg"
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "imgSrc": "assets/images/12.jpg"
   },
   {
     "id": 13,
@@ -146,10 +123,8 @@
     "price": 815,
     "category": "armchair",
     "rating": 4,
-    "description":
-      "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/mitch-moondae-zXFtsdi9dIc-unsplash.jpg"
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "imgSrc": "assets/images/13.jpg"
   },
   {
     "id": 14,
@@ -158,8 +133,7 @@
     "category": "armchair",
     "rating": 1,
     "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/behnam-norouzi-phXwnWWz-BM-unsplash.jpg"
+    "imgSrc": "assets/images/14.jpg"
   },
   {
     "id": 15,
@@ -167,10 +141,8 @@
     "price": 100,
     "category": "couch",
     "rating": 5,
-    "description":
-      "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/bence-balla-schottner-vFwjD8JLP4M-unsplash.jpg"
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "imgSrc": "assets/images/15.jpg"
   },
   {
     "id": 16,
@@ -178,10 +150,8 @@
     "price": 958,
     "category": "armchair",
     "rating": 2,
-    "description":
-      "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/eugenivy_now-1JJJIHh7-Mk-unsplash.jpg"
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "imgSrc": "assets/images/16.jpg"
   },
   {
     "id": 17,
@@ -189,20 +159,16 @@
     "price": 854,
     "category": "couch",
     "rating": 5,
-    "description":
-      "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/halacious-Vfml26Iy4mI-unsplash.jpg"
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "imgSrc": "assets/images/17.jpg"
   },
   {
-    "id": 19,
+    "id": 18,
     "title": "Sleek Fresh Chair",
     "price": 465,
     "category": "chair",
     "rating": 2,
-    "description":
-      "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-    "imgSrc":
-      "https://cdn.lorem.space/images/furniture/.cache/640x480/rabie-madaci-4iwG8QD17AE-unsplash.jpg"
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "imgSrc": "assets/images/18.jpg"
   }
 ]
